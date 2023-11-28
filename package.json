@@ -4,7 +4,8 @@
   "description": "remark plugin to transform standard markdown headings to docusaurus(v2) JSX tabs.",
   "author": "Paul McClean <email@paulmcclean.com> (http://paulmcclean.com)",
   "contributors": [
-    "Paul McClean <email@paulmcclean.com> (http://paulmcclean.com)"
+    "Paul McClean <email@paulmcclean.com> (http://paulmcclean.com)",
+    "Eric Lin <38420555+Ezzahhh@users.noreply.github.com>"
   ],
   "license": "MIT",
   "keywords": [
